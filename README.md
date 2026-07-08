@@ -1,3 +1,2 @@
 # tubbish
-30812386
-buzhidaoa,他们说有学分我就来了
+我的第一个github项目
